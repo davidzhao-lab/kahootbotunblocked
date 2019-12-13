@@ -30,3 +30,4 @@ idiidk – [@idiidka](https://twitter.com/idiidka)
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/idiidk](https://github.com/idiidk/)
+[![Run on Repl.it](https://repl.it/badge/github/davidzhao-lab/kahootbotunblocked)](https://repl.it/github/davidzhao-lab/kahootbotunblocked)
